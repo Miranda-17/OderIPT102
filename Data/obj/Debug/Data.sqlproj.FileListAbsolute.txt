@@ -1,0 +1,10 @@
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\bin\Debug\Data.dacpac
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\bin\Debug\Data.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\bin\Debug\Data.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\Data.sqlproj.AssemblyReference.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\Model.xml
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\refactor.xml
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\postdeploy.sql
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\predeploy.sql
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\Data.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Data\obj\Debug\Data.pdb

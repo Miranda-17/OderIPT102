@@ -1,0 +1,15 @@
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\bin\Debug\net9.0\Framework.deps.json
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\bin\Debug\net9.0\Framework.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\bin\Debug\net9.0\Framework.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\bin\Debug\net9.0\Domain.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\bin\Debug\net9.0\Domain.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.csproj.AssemblyReference.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.AssemblyInfoInputs.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.AssemblyInfo.cs
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.csproj.CoreCompileInputs.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.csproj.Up2Date
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\refint\Framework.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\Framework.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Framework\obj\Debug\net9.0\ref\Framework.dll

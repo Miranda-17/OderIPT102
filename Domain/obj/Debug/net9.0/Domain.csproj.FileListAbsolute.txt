@@ -1,0 +1,11 @@
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\EulaticIPT102\MirandaSolutionIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
